@@ -1,4 +1,4 @@
-# rabbitmq-producer-consumer
+# Produzir e consumir mensagens em filas do Rabbit MQ
 
 ## Projeto simples com dois apps em spring boot que usam fila do Rabbit MQ para produzir e consumir mensagens enviadas via http rest.
 
